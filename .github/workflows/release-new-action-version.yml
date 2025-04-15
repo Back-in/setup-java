@@ -1,3 +1,4 @@
+release-new-action-version.yml
 name: Release new action version
 
 on:
